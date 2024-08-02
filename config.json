@@ -1,0 +1,6 @@
+{
+    "model_path": "yolov8s.pt",
+    "video_path": "cars_on_a_highway/los-angeles-freeway-i-101-hd-30fps-traffic-sound.mp4",
+    "output_path": "cars_on_a_highway/speed_estimation.avi",
+    "line_pts": [[0, 400], [1880, 400]]
+}
